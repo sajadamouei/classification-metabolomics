@@ -1,6 +1,6 @@
 # Classifying Dry Eye Disease Patients from Healthy Controls Using Machine Learning and Metabolomics Data
 
-Reproduce the paper's results in Google Colaboratory: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ErbeQaGO02VAbIakkNqS46M8F4YWSFPD?usp=sharing "Click to open in Colab") 
+Reproduce results: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ErbeQaGO02VAbIakkNqS46M8F4YWSFPD?usp=sharing "Click to open in Colab") 
 
 ## Overview
 This repository contains the Jupyter Notebook and data sets used in our study titled "Classifying Dry Eye Disease Patients from Healthy Controls Using Machine Learning and Metabolomics Data." The research aimed to explore and optimize machine learning models for classifying cataract patients with and without Dry Eye Disease using metabolomics data. The metabolomics data sets used in this study are imbalanced, with a small number of samples and a large number of features.
