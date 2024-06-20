@@ -13,3 +13,6 @@ Google Colab will open in your web browser, and you may need to sign in with you
 Once you're in Colab, you can run the notebook cells sequentially to reproduce our analysis or modify the code.<br>
 Additionally, there is a form where you can select the dataset you wish to analyze and explore using machine learning models.
 
+## Proposed pipeline
+
+![pipeline1-1](https://github.com/sajadamouei/classification-metabolomics/assets/27925997/144fa5d7-8e92-4ad4-b0ad-dfde5712eea7)
