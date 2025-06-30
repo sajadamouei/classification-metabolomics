@@ -14,3 +14,17 @@ Click on the [![Open In Colab](https://colab.research.google.com/assets/colab-ba
 Google Colab will open in your web browser, and you may need to sign in with your Google account.<br>
 Once you're in Colab, you can run the notebook cells sequentially to reproduce our analysis or modify the code.<br>
 Additionally, there is a form where you can select the dataset you wish to analyze and explore using machine learning models.
+### Citation
+---
+Please cite this paper in your publications if it helps your research:
+```
+@article{sheshkal2024classifying,
+  title={Classifying Dry Eye Disease Patients from Healthy Controls Using Machine Learning and Metabolomics Data},
+  author={Sheshkal, Sajad Amouei and Gundersen, Morten and Riegler, Michael Alexander and Utheim, {\O}ygunn Aass and Gundersen, Kjell Gunnar and Rootwelt, Helge and Elgst{\o}en, Katja Benedikte Prest{\o} and Hammer, Hugo Lewi},
+  journal={Diagnostics},
+  volume={14},
+  number={23},
+  pages={2696},
+  year={2024}
+}
+```
